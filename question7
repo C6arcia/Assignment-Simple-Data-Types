@@ -1,0 +1,8 @@
+#Question7: needs to be in Github
+"""Jack has been prescribed 5 medications, write a variable named "Medication",
+and store in it the number of medications he has. Print the type of the variable "Medication". 
+Submit your code either here as a text entry, or on your GitHub page in a new repository and past the link here. 
+We encourage you to use GitHub. Don't forget to add comments to your code."""
+
+Medication = 5
+print(type(Medication))
